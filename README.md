@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+
 <rss version="2.0" xmlns:site24x7="https://www.site24x7.com/rssdefinitions.do#">
   <channel>
     <title>Snapcraft System Status - Status</title>
